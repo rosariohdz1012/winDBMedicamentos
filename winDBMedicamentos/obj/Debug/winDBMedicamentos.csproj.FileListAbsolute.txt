@@ -1,0 +1,12 @@
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\bin\Debug\winDBMedicamentos.exe.config
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\bin\Debug\winDBMedicamentos.exe
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\bin\Debug\winDBMedicamentos.pdb
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.csproj.AssemblyReference.cache
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.fmMedicamentos.resources
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.Form1.resources
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.Properties.Resources.resources
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.csproj.GenerateResource.cache
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.exe
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.pdb
+C:\Users\Chayito\source\repos\winDBMedicamentos\winDBMedicamentos\obj\Debug\winDBMedicamentos.FrmLaboratorio.resources
